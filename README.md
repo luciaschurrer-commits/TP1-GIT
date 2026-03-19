@@ -2,7 +2,7 @@
 
 ## Integrantes:
 
-- [Schurrer Lucía](lucia_schurrer.md)
-- Benedetti Regina
+- Schurrer Lucía
+- [Benedetti Regina](regina_benedetti.md)
 - Santos Said
 
