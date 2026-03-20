@@ -6,5 +6,3 @@
 - [Benedetti Regina](regina_benedetti.md)
 - [Santos Said](said-santos.md)
 
-
-
