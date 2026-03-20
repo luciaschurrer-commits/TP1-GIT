@@ -6,7 +6,3 @@
 - [Benedetti Regina](regina_benedetti.md)
 - Santos Said
 
-## Script
-- [Script JS](script.js)
-
-
