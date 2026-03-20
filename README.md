@@ -4,7 +4,8 @@
 
 - [Schurrer Lucía](lucia_schurrer.md)
 - [Benedetti Regina](regina_benedetti.md)
-- Santos Said
+- [Santos Said](said_santos.md)
+
 
 ## Script
 - [Script JS](script.js)
